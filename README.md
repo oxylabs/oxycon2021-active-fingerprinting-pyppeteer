@@ -1,6 +1,8 @@
 OxyCon 2021 Active Fingerprinting With Pyppeteer Code Samples
 ==
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+
 Tested with python3.8
 
 Requirements:
